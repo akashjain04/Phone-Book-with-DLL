@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541380308 source:c:\users\jaina\desktop\dslabpractise\finalphonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
